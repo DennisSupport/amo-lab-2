@@ -1,2 +1,2 @@
-/titanic_filtered.csv
-/titanic_fillna.csv
+.dvc
+*.dvc
